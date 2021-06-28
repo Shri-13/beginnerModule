@@ -1,2 +1,2 @@
 # beginnerModule
-Chumm create pannen
+Chumma create pannen
